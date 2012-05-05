@@ -7,6 +7,11 @@ Backup files from your server without synching all files to your server
 
 ------------------------------------------------------------------------
 
+Install instructions: Go to www.dropbox.com/developers
+Get a app key and secret, and the development kits. Follow installations
+
+------------------------------------------------------------------------
+
 
 
 Simple dropbox backuper - Version 1.0  
