@@ -1,9 +1,13 @@
 dropbox-simple-backuper
 =======================
 
-Simple python script for taking backups (upload, move/rename and delete)
+Simple python script for taking backups without having files synched (upload, move/rename and delete)
+
+Backup files from your server without synching all files to your server
 
 ------------------------------------------------------------------------
+
+
 
 Simple dropbox backuper - Version 1.0  
 

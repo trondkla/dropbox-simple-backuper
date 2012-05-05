@@ -6,9 +6,14 @@ from dropbox import client, rest, session
 
 ###########################################################################
 #   Simple dropbox backup script                                          #
-#   By: Trond Klakken    License: Do what you want, see www.dropbox.com   #
+#                                                                         #
+#   License: Do what you want, see www.dropbox.com                        #
+#                                                                         #
 #   Get your own developer key at www.dropbox.com/developers              #
 #   add to password.txt, first line APP_KEY, second line APP_SECRET       #
+#                                                                         #
+#   https://github.com/trondkla/dropbox-simple-backuper/                  #
+#   Trond Klakken - trondkla
 #                                                                         #
 ###########################################################################
 
