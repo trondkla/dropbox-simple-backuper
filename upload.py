@@ -1,8 +1,4 @@
-import cmd
-import locale
 import os, sys
-import pprint
-import shlex
 import time
 import getopt
 
