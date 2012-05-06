@@ -5,6 +5,8 @@ Simple python script for taking backups without having files synched (upload, mo
 
 Backup files from your server without synching all files to your server
 
+Max file size is 150 MB, this is a limit dropbox has set
+
 ------------------------------------------------------------------------
 
 Install instructions: Go to www.dropbox.com/developers
