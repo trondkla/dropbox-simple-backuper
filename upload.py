@@ -176,10 +176,10 @@ class Uploader():
 
     def search(self, path, query):
     	""" Search for files in directory """
-		try:
-			return self.api_client.search(path, query)
-		except:
-			return None
+        try:
+            return self.api_client.search(path, query)
+        except:
+            return None
 
 def main():
 
