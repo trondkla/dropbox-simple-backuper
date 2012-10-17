@@ -12,6 +12,8 @@ Max file size is 150 MB, this is a limit dropbox has set
 Install instructions: Go to www.dropbox.com/developers
 Get a app key and secret, and the development kits. Follow installations
 
+Can be installed through "easy_install dropbox" on a distro with python-setuptools
+
 ------------------------------------------------------------------------
 
 
