@@ -14,6 +14,8 @@ Get a app key and secret, and the development kits. Follow installations
 
 Can be installed through "easy_install dropbox" on a distro with python-setuptools
 
+When you have the dropbox package in python and password.txt and token_store.txt you are ready
+
 ------------------------------------------------------------------------
 
 
