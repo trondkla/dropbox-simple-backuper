@@ -1,5 +1,7 @@
-dropbox-simple-backuper
+dropbox-simple-backuper (DEPRECATED)
 =======================
+
+Uses dropbox API v1, which is deprecated: https://blogs.dropbox.com/developers/2016/06/api-v1-deprecated/
 
 Simple python script for taking backups without having files synched (upload, move/rename and delete)
 
